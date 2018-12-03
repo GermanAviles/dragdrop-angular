@@ -1,0 +1,11 @@
+<div class="card-columns">
+    <div class="card" *ngFor="let foto of fotosFirebase">
+        <img class="card-img-top" [src]="foto.url" [alt]="foto.nombre">
+
+        <div class="card-body">
+            <h5 class="card-title">{{ foto.nombre }}</h5>
+        </div>
+
+    </div>
+
+</div>
