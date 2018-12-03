@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.7.
 
+esta es una aplicación web en tiempo real hecha con angular y conectada con firebase.
+para el drag and drop se creó una directiva la cual se encarga de todo este proceso de validaciones.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
